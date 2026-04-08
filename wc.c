@@ -7,7 +7,7 @@ void print_help() {
     printf("Options:\n");
     printf("    -c:    Count characters in the file\n");
     printf("    -w:    Count words in the file\n");
-    printf("    -l:    Count linez in the file\n");
+    printf("    -l:    Count lines in the file\n");
     printf("    -h:    Print this help\n");
     printf("\n");
 }
